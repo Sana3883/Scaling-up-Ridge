@@ -1,6 +1,6 @@
 import numpy as np
 
-X= np.load('Season3_sub1.npy', allow_pickle=True)
+X= np.load('<path_to_your_video_files>, allow_pickle=True)
 print (X.shape)
 
 # Hemodynamic response delay simulation by Alex Huth
